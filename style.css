@@ -10,11 +10,15 @@
 */
 
 /* Add Caveat Font type */
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=PT+Sans&display=swap');
 
 .site-description {
   font-family: 'Caveat',cursive;
   font-size: 32px;
+}
+
+.entry-content {
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 }
 
 /* Hide "Powered by Wordpress" */
