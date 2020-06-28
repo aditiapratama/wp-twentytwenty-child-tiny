@@ -1,13 +1,20 @@
 /*
- Theme Name:     Twenty Twenty Child
+ Theme Name:     Twenty Twenty DD Content Library
  Theme URI:      https://ryandaniels.ca/blog/set-up-customize-wordpress-twenty-twenty/
  Description:    Smaller font and less space around everything
- Author:         Ryan Daniels
+ Author:         Ryan Daniels, Aditia A. Pratama
  Author URI:     https://ryandaniels.ca
  Template:       twentytwenty
- Version:        2.0.0
+ Version:        2.0.1
+ Github Theme URI : https://github.com/aditiapratama/wp-twentytwenty-child-tiny
 */
 
+/* Add Caveat Font type */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+.site-description {
+  font-family: 'Caveat',cursive;
+}
 /* Twenty Twenty Stuff */
 
 /* Smaller Heading Font please */
