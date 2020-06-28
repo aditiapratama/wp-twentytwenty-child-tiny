@@ -14,6 +14,12 @@
 
 .site-description {
   font-family: 'Caveat',cursive;
+  font-size: 32px;
+}
+
+/* Hide "Powered by Wordpress" */
+.powered-by-wordpress {
+  display: none;
 }
 /* Twenty Twenty Stuff */
 
